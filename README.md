@@ -1,0 +1,3 @@
+# Scamp-Assessment
+Submission
+# SHE CODE ASSESSMENT PRACTICE FOR PYTHON BEGINNERS
